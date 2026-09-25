@@ -12,6 +12,8 @@ result — and if no result arrives, no reward is ever shown.
 
 Either half can be switched off in settings.
 
+
+# Discord: https://discord.gg/dJv5Ryn8zU
 ---
 
 ## Download
